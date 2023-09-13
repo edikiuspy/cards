@@ -1,6 +1,5 @@
 from flask import Flask, send_from_directory
 import random
-
 app = Flask(__name__)
 
 # Path for our main Svelte page
