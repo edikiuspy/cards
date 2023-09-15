@@ -1,6 +1,5 @@
 <script>
   export let color;
-  export let choiseTables;
   export let mainText;
 
   function fetchRenderedText() {

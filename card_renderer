@@ -1,0 +1,10 @@
+import json
+
+if __name__ == "__main__":
+
+
+  def render_card():
+    color = None
+    difficulty_score = 0
+
+    return (color, difficulty_score)

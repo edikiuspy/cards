@@ -1,38 +1,29 @@
 {
   "metaData": {
-    "deckName":"_temp",
-    "deckId":"",
-    "subsribedUsers":[] 
+    "deckName": "_temp",
+    "deckId": "",
+    "subsribedUsers": ["_tempSubsribedUser"]
   },
 
   "choiseTables": {
-
     "_tempChoiseTable": {
+      "rules": ["_tempRule"],
 
-      "rules": [
-        "_tempRule"
-      ],
-
-      "tables": {
-        "_tempTable":{
-          "_tempValue":0
+      "table": {
+        "_tempTable": {
+          "_tempValue": {
+            "diffuculty":0,
+            "tags":["_tempTag"]
+          }
         }
       }
     }
-
   },
 
   "cards": {
-
     "tempCard": {
-
-      "tags":[],
-      "innerText":"",
-      "diffuculty":0
-
+      "innerText": "",
+      "diffuculty": 0
     }
-
   }
-
-
 }
