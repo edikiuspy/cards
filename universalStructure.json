@@ -1,0 +1,38 @@
+{
+  "metaData": {
+    "deckName":"_temp",
+    "deckId":"",
+    "subsribedUsers":[] 
+  },
+
+  "choiseTables": {
+
+    "_tempChoiseTable": {
+
+      "rules": [
+        "_tempRule"
+      ],
+
+      "tables": {
+        "_tempTable":{
+          "_tempValue":0
+        }
+      }
+    }
+
+  },
+
+  "cards": {
+
+    "tempCard": {
+
+      "tags":[],
+      "innerText":"",
+      "diffuculty":0
+
+    }
+
+  }
+
+
+}
