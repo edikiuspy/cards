@@ -1,10 +1,9 @@
-# Svelte.js + Flask
+### **CardParty**
 
-A super simple example of using Flask to serve a Svelte app and use it as a backend server.
+Card game creator and player.
 
-Run the following for development:
+Create andplay fun and exting card games with your friends and family using our deck editor. With custom values and infinte replayability.
 
-- `python server.py` to start the Flask server.
-- `cd client; npm install; npm run autobuild` to automatically build and reload the Svelte frontend when it's changed.
-
-This example just queries the Flask server for a random number.
+### Developed by:
+Lukasz Dabrowski
+Edward Multianov
